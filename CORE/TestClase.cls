@@ -1,4 +1,4 @@
 Class CORE.TestClase
 {
-	//Probanco cambio 1
+	//Probanco cambio 2
 }
