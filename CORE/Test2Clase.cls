@@ -4,4 +4,5 @@ Class CORE.Test2Clase
 	//cambio para probar
 	//cambio desa
 	//Prueba Comit nuevo hilo
+	//123
 }
